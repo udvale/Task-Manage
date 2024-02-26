@@ -3,4 +3,4 @@ Simple todo-list for task management with simple features in adding and deleting
 
 # Launch
 - website: https://task-management-udvale.netlify.app/
-- Chrome Web Page: https://chrome.google.com/webstore/detail/task-manager/dadckocfilhmalhhcafdghhoeahnfhaf
+- Google Extension from Chrome web store
